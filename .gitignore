@@ -12,3 +12,15 @@ docs/
 
 # Dotenv file
 .env
+
+# Broadcast files
+broadcast
+
+# ABI
+abi
+
+# Flattened file
+*.flattened.sol
+
+# History files
+.history
